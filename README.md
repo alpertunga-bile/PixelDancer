@@ -7,6 +7,7 @@
 - [D3D12](https://github.com/alpertunga-bile/PixelDancer-D3D12)
 
 ## Utility
+- [Shader](https://github.com/alpertunga-bile/PXD-Shader)
 - [AssetLib](https://github.com/alpertunga-bile/PXD-AssetLib)
 - [ImGUI](https://github.com/alpertunga-bile/PXD-GUI)
 - [Math](https://github.com/alpertunga-bile/PixelDancerMath)
