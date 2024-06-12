@@ -14,3 +14,7 @@
 - [ImGUI](https://github.com/alpertunga-bile/PXD-GUI)
 - [Math](https://github.com/alpertunga-bile/PixelDancerMath)
 - [Math Tests](https://github.com/alpertunga-bile/PXDMathTests)
+
+## Samples / Tests
+- [Cubemap Sampling](https://github.com/alpertunga-bile/PXD_cubemap_sampling)
+- [Spherical Harmonics](https://github.com/alpertunga-bile/spherical-harmonics)
